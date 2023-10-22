@@ -1,10 +1,10 @@
 ### API INOVA WEEK
 
 ##### Grupo:
-Daniel Marculano
-João Victor Antunes
-Matheus Kuster
-Yuri Soares
+- Daniel Marculano
+- João Victor Antunes
+- Matheus Kuster
+- Yuri Soares
 
 
 ##### Instalação
